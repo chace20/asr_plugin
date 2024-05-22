@@ -11,7 +11,7 @@ dependencies:
   crypto: ^3.0.2
   flutter:
     sdk: flutter
-  http: ^0.13.5
+  http: ^1.0.0
   intl: ^0.18.1
   plugin_platform_interface: ^2.0.2
 
